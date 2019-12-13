@@ -1,0 +1,65 @@
+[
+    
+        {
+            "api/values": true ;{
+                "APPLICATION": api.values ;{
+                    "aLaunchUrl": true ;{
+                        "ASPNETCORE_ENVIRONMENT": jts;
+                    }
+                }
+            }
+        }
+    
+        {
+            "profiles": {
+                " interactive brokers": "CommandClient" ;{
+                    "Commandname": "profiles" ;{
+                        "LaunchBrowser": true :
+                        {
+                            "LaunchUrl": api.values;
+                            {
+                                "ASPNETCORE_ENVIRONMENT": APPLICATION ;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        {
+            "AccountSettingsValidation" : {
+                "CommandClient": "" ;
+                "lLaunchBrowser": true ;
+                "LaunchUrl": application.InteractiveBrokers ;
+                "application href ": SSL=ndc1.ibllc.com:4000 true.20191201 ;  {
+                    "application/Interactive": InteractiveBrokers ;  {
+                        "ASPNETCORE_ENVIRONMENT": investidor ;
+                    }
+                }
+            }
+        }
+        {
+            "APPLICATION": true {
+                "APPLICATION": CONFIGURAÇAO.xml {
+                    "APPLICATION": true {
+                        "APPLICATION": rss.xml {
+                            "APPLICATION": true {
+                                "APPLICATION": workspace.xml;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        {
+            "AccountSettingsValidation": {
+                "LaunchBrowser": true {
+                    "LaunchUrl": "https://www. " {
+                        "applicationUrl": true {
+                            "applicationUrl": "https://w"/ ;
+                        }
+                    }
+                }
+            }
+        }
+    
+]
