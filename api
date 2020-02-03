@@ -1,65 +1,59 @@
-[
-    
-        {
-            "api/values": true ;{
-                "APPLICATION": api.values ;{
-                    "aLaunchUrl": true ;{
-                        "ASPNETCORE_ENVIRONMENT": jts;
-                    }
+var api.jts[CONFIGURAÇAO: rss\  start.Ticks\ ]; {
+    var CONFIGURAÇAO:
+        api = HttpProxyHost {},
+        rss: {},
+         {
+        function jts(params.HttpProxyHost) {
+            HttpProxyHost(params.SSL): api.jts[\SSL: 4000, +, \SSL: 5000, +, \SSL: 6000, +, ],
+
+                if (condition.jts) {
+                    HttpProxyHostSSL: 4000(+),
+                }
+                else {
+                    SSL = 4000(+)[SSL = true]
+                },
+            if (condition.jts) {
+                HttpProxyHostSSL: 5000(+),
+            }
+            else {
+                SSL = 5000(+)[SSL = true]
+            },
+            if (condition.jts) {
+                HttpProxyHostSSL: 6000(+),
+            }
+            else {
+                SSL = 6000(+)[SSL = true]
+            };
+            var { account[api.jts] clientInformation. };
+            for (const jts in object) {
+                if (object.hasOwnProperty(jts)) {
+                    const element = object[jts];
+                    return :{}
                 }
             }
-        }
-    
-        {
-            "profiles": {
-                " interactive brokers": "CommandClient" ;{
-                    "Commandname": "profiles" ;{
-                        "LaunchBrowser": true :
-                        {
-                            "LaunchUrl": api.values;
-                            {
-                                "ASPNETCORE_ENVIRONMENT": APPLICATION ;
-                            }
-                        }
-                    }
+
+            function profile(params.jts) {
+                if (condition.rss) {
+                    profile: rss(true)
+                    return :application(rss);
                 }
-            }
-        }
-        {
-            "AccountSettingsValidation" : {
-                "CommandClient": "" ;
-                "lLaunchBrowser": true ;
-                "LaunchUrl": application.InteractiveBrokers ;
-                "application href ": SSL=ndc1.ibllc.com:4000 true.20191201 ;  {
-                    "application/Interactive": InteractiveBrokers ;  {
-                        "ASPNETCORE_ENVIRONMENT": investidor ;
-                    }
+            },
+            function profile(params.jts) {
+                if (condition.offer.catalogo) {
+                    profile: offer.catalogo(true)
                 }
-            }
-        }
-        {
-            "APPLICATION": true {
-                "APPLICATION": CONFIGURAÇAO.xml {
-                    "APPLICATION": true {
-                        "APPLICATION": rss.xml {
-                            "APPLICATION": true {
-                                "APPLICATION": workspace.xml;
-                            }
-                        }
+            },
+            
+            for (CONFIGURAÇAO(let index.APPLICATION[InteractiveBrokers] CommandClient\ confirm\ values\ index.APPLICATION[InteractiveBrokers] CommandClient < array.length\ index.APPLICATION[InteractiveBrokers].CommandClient++)) {
+                const element = array[[index.APPLICATION[InteractiveBrokers.params\ SSL].CommandClient.api]];
+                clientInformation(xmlopt):
+                    application: ServiceWorkerRegistration(jts),
+                    application: params(CommandClient),
+                    api.APPLICATION: launch.params(profile) {
+                        ApplicationCache: window.true,
+                        URLSearchParams: platform(LaunchUrl = "https://www.interactivebrokers.com/");
                     }
-                }
             }
-        }
-        {
-            "AccountSettingsValidation": {
-                "LaunchBrowser": true {
-                    "LaunchUrl": "https://www. " {
-                        "applicationUrl": true {
-                            "applicationUrl": "https://w"/ ;
-                        }
-                    }
-                }
-            }
-        }
-    
-]
+        };
+    }
+}
